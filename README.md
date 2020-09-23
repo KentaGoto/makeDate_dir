@@ -6,3 +6,6 @@ Create a YYYYMMDD folder.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
